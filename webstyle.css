@@ -205,3 +205,11 @@ body {
   background-color: #E1E5EE;
   border-radius: 25px;
 }
+.image{
+  background-color: #2a324b;
+  border-radius: 15px;
+}
+.logo{
+  width: 100px;
+  height: 100px;
+}
